@@ -1,0 +1,577 @@
+@media (min-width: 320px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
+
+
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: url(C:\Users\AVATAR-PC\Desktop\PROJECTS\Order\src\images\pattern-background-mobile.svg);
+  
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    background-color: rgba(224,232,255,255)
+  }
+  
+  *{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  
+  
+  
+  .head{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: 3%;
+    width: 90%;
+  }
+  
+  .foot{
+    background-color: white;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    padding-top: 25px;
+    position: relative;
+    bottom: 0.2rem;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+  
+  }
+  
+  .para{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding-top: 3%;
+    padding-bottom: 5%;
+  }
+  .can{
+    text-decoration: none;
+    
+  }
+  
+  .cancel{
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+  
+  .music{
+    padding-top: 3%;
+    /* margin-top: 5%; */
+    padding-bottom: 3%;
+    width: 70%;
+    background-color: whitesmoke;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 5%;
+  }
+  
+  button{
+    background-color: blue;
+    width: 70%;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+    box-shadow: 5px 5px 5px 5px whitesmoke;
+  }
+
+
+
+}
+
+@media (min-width: 480px)  { /* smartphones, Android phones, landscape iPhone */
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: url(C:\Users\AVATAR-PC\Desktop\PROJECTS\Order\src\images\pattern-background-desktop.svg);
+  
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    background-color: rgba(224,232,255,255)
+  }
+  
+  *{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  
+  
+  
+  .head{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: 3%;
+    width:70%;
+  }
+  
+  .foot{
+    background-color: white;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding-top: 25px;
+    position: relative;
+    bottom: 0.2rem;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+  
+  }
+  
+  .para{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding-top: 3%;
+    padding-bottom: 5%;
+  }
+  .can{
+    text-decoration: none;
+    
+  }
+  
+  .cancel{
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+  
+  .music{
+    padding-top: 3%;
+    /* margin-top: 5%; */
+    padding-bottom: 3%;
+    width: 70%;
+    background-color: whitesmoke;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 5%;
+  }
+  
+  button{
+    background-color: blue;
+    width: 70%;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+    box-shadow: 5px 5px 5px 5px whitesmoke;
+  }
+
+
+
+
+
+}
+
+
+@media (min-width: 600px){
+
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: url(C:\Users\AVATAR-PC\Desktop\PROJECTS\Order\src\images\pattern-background-desktop.svg);
+  
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    background-color: rgba(224,232,255,255)
+  }
+  
+  *{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  
+  
+  
+  .head{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: 3%;
+    width: 55%;
+  }
+  
+  .foot{
+    background-color: white;
+    width: 55%;
+    margin: auto;
+    text-align: center;
+    padding-top: 25px;
+    position: relative;
+    bottom: 0.2rem;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+  
+  }
+  
+  .para{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding-top: 3%;
+    padding-bottom: 5%;
+  }
+  .can{
+    text-decoration: none;
+    
+  }
+  
+  .cancel{
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+  
+  .music{
+    padding-top: 3%;
+    /* margin-top: 5%; */
+    padding-bottom: 3%;
+    width: 70%;
+    background-color: whitesmoke;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 5%;
+  }
+  
+  button{
+    background-color: blue;
+    width: 70%;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+    box-shadow: 5px 5px 5px 5px whitesmoke;
+  }
+
+
+
+
+
+}
+
+
+@media (min-width: 801px)  { 
+
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: url(C:\Users\AVATAR-PC\Desktop\PROJECTS\Order\src\images\pattern-background-desktop.svg);
+  
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    background-color: rgba(224,232,255,255)
+  }
+  
+  *{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  
+  
+  
+  .head{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: 3%;
+    width: 45%;
+  }
+  
+  .foot{
+    background-color: white;
+    width: 45%;
+    margin: auto;
+    text-align: center;
+    padding-top: 25px;
+    position: relative;
+    bottom: 0.2rem;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+  
+  }
+  
+  .para{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding-top: 3%;
+    padding-bottom: 5%;
+  }
+  .can{
+    text-decoration: none;
+    
+  }
+  
+  .cancel{
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+  
+  .music{
+    padding-top: 3%;
+    /* margin-top: 5%; */
+    padding-bottom: 3%;
+    width: 70%;
+    background-color: whitesmoke;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 5%;
+  }
+  
+  button{
+    background-color: blue;
+    width: 70%;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+    box-shadow: 5px 5px 5px 5px whitesmoke;
+  }
+
+}
+
+@media (min-width: 1025px) { 
+
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: url(C:\Users\AVATAR-PC\Desktop\PROJECTS\Order\src\images\pattern-background-desktop.svg);
+  
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    background-color: rgba(224,232,255,255)
+  }
+  
+  *{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  
+  
+  
+  .head{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: 3%;
+    width: 33%;
+  }
+  
+  .foot{
+    background-color: white;
+    width: 33%;
+    margin: auto;
+    text-align: center;
+    padding-top: 25px;
+    position: relative;
+    bottom: 0.2rem;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+  
+  }
+  
+  .para{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding-top: 3%;
+    padding-bottom: 5%;
+  }
+  .can{
+    text-decoration: none;
+    
+  }
+  
+  .cancel{
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+  
+  .music{
+    padding-top: 3%;
+    /* margin-top: 5%; */
+    padding-bottom: 3%;
+    width: 70%;
+    background-color: whitesmoke;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 5%;
+  }
+  
+  button{
+    background-color: blue;
+    width: 70%;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+    box-shadow: 5px 5px 5px 5px whitesmoke;
+  }
+
+
+}
+
+@media (min-width: 1281px) { 
+
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: url(C:\Users\AVATAR-PC\Desktop\PROJECTS\Order\src\images\pattern-background-desktop.svg);
+  
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    background-color: rgba(224,232,255,255)
+  }
+  
+  *{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  
+  
+  
+  .head{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: 3%;
+    width: 33%;
+  }
+  
+  .foot{
+    background-color: white;
+    width: 33%;
+    margin: auto;
+    text-align: center;
+    padding-top: 25px;
+    position: relative;
+    bottom: 0.2rem;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+  
+  }
+  
+  .para{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding-top: 3%;
+    padding-bottom: 5%;
+  }
+  .can{
+    text-decoration: none;
+    
+  }
+  
+  .cancel{
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+  
+  .music{
+    padding-top: 3%;
+    /* margin-top: 5%; */
+    padding-bottom: 3%;
+    width: 70%;
+    background-color: whitesmoke;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 5%;
+  }
+  
+  button{
+    background-color: blue;
+    width: 70%;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+    box-shadow: 5px 5px 5px 5px whitesmoke;
+  }
+
+
+}
